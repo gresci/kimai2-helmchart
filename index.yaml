@@ -3,12 +3,12 @@ entries:
   kimai-helmchart:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-02-24T10:20:07.218377208+01:00"
+    created: "2021-02-25T14:33:29.341690505+01:00"
     description: A Helm chart for Kubernetes
-    digest: 7f57f11c4854ba1f90fdfc3a85f2fe1264553d2a8fa44836344867c6c3d33ee8
+    digest: 51c8b5255f96daba361f2729e66b3665a2c3747f65eb13db1161175d22a36d3c
     name: kimai-helmchart
     type: application
     urls:
-    - kimai2.tgz
+    - kimai-helmchart.tgz
     version: 0.1.0
-generated: "2021-02-24T10:20:07.21757174+01:00"
+generated: "2021-02-25T14:33:29.340186065+01:00"
