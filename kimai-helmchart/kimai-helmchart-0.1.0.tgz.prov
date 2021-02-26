@@ -2,29 +2,22 @@
 Hash: SHA512
 
 apiVersion: v2
-appVersion: 0.1.0
+appVersion: 1.16.0
 description: A Kimai2 Helm chart for Kubernetes
-home: https://github.com/kevinpapst/kimai2
-icon: https://raw.githubusercontent.com/kimai/images/master/repository-header.png
-maintainers:
-- - email: gresci@tiscali.it
-  name: Giorgio Resci
 name: kimai-helmchart
-sources:
-- - https://github.com/gresci/kimai2-helmchart/tree/gh-pages
 type: application
 version: 0.1.0
 
 ...
 files:
-  kimai-helmchart-0.1.0.tgz: sha256:e94ccd73bdb34de9d0db0f08be7b5843fb03dc437cfe4b6692f10584edc7151a
+  kimai-helmchart-0.1.0.tgz: sha256:d99c080818927e2c45b24f1af1373a130d6919ff2e18738e5aaa73c5bacb03b1
 -----BEGIN PGP SIGNATURE-----
 
-wsBcBAEBCgAQBQJgOPffCRD1bFTW29tsuAAA5OgIAGXKekmqwXnDCs3/7wHg8/7C
-yEBN77/PkzWyB/6LWneFxJl1QVysJRq8w/JOTOx5jwE89VuuPfglJIV0ARKRprj6
-iGjR+KSqy4E5JV/FPm2PrC2DfAXaRpi8lY/OtR05hnE+ffnMgnmb0MhP/FRL/W8X
-wGek+UvjEGbQofrHDzogj1Q/4EPr5Cmy/OXySQZ0Fco6eKm8fpyWbfJWpVNYgovc
-q6LcGOcBDGUNDstDnKLC9LccgstqwVFvEYrKsPj2+SNDYFEbb4KnyCU9dIxt4nvb
-mh+UT/Y06kgbsqeba91BkxvDh7J7EBHYYOr0fR1YjvycaWc1oa4422GcrFRCJaU=
-=haq7
+wsBcBAEBCgAQBQJgOTIzCRD1bFTW29tsuAAAmKYIAHamC3wMZi2Audmbw8vIDIPJ
+POESSpm/sNg24svVrJM32i90cYNpOA2clTnlHEC7ZPrIlEcm1EXe6mpD/QFghjEg
+SDpVI2cCfkPsLdwH7qeg8s/iRD+xdWT4b8x7b3AUj5SPvuRTqnCIekKcKNOI4FPA
+MKg53b8xyVKPUp2NZfIZWf60VR0OA1Bw3N8OfnLlmLrjVX2gI0w219LW/cT/ftgl
+0lzaI7yy/hbfYo8630LiV5fxtpa1qFppZMF9+q5ngK+cg0v4JU8Ng+rHyH9OhBc5
+GWv0NYdXZX7yYyl3YsbMzctroj1OWpn/8JASrDXb6YluGd5o/60PGOOovaS+zN0=
+=F9gR
 -----END PGP SIGNATURE-----
