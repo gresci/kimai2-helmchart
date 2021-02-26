@@ -3,17 +3,7 @@ entries:
   kimai-helmchart:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-02-26T12:02:20.149788277+01:00"
-    description: A Helm chart for Kubernetes
-    digest: 413196fcbb870a5746b4809fde30ad3919a77b8c4a5dee15b5ffee73f11b71b6
-    name: kimai-helmchart
-    type: application
-    urls:
-    - kimai-helmchart-0.1.0.tgz
-    version: 0.1.0
-  - apiVersion: v1
-    appVersion: 0.1.0
-    created: "2021-02-26T12:02:20.150351448+01:00"
+    created: "2021-02-26T13:02:28.071728824+01:00"
     description: A Helm chart for Kubernetes
     digest: 413196fcbb870a5746b4809fde30ad3919a77b8c4a5dee15b5ffee73f11b71b6
     name: kimai-helmchart
@@ -21,4 +11,4 @@ entries:
     urls:
     - kimai-helmchart/kimai-helmchart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-02-26T12:02:20.148991234+01:00"
+generated: "2021-02-26T13:02:28.070721868+01:00"
