@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-apiVersion: v1
+apiVersion: v2
 appVersion: 0.1.0
 description: A Kimai2 Helm chart for Kubernetes
 home: https://github.com/kevinpapst/kimai2
@@ -17,14 +17,14 @@ version: 0.1.0
 
 ...
 files:
-  kimai-helmchart-0.1.0.tgz: sha256:be2447b7fc2a93e8fe1fafffbd5753f7df3f5f70b962bb4b8dc7e8e1c9140987
+  kimai-helmchart-0.1.0.tgz: sha256:e94ccd73bdb34de9d0db0f08be7b5843fb03dc437cfe4b6692f10584edc7151a
 -----BEGIN PGP SIGNATURE-----
 
-wsBcBAEBCgAQBQJgOPIhCRD1bFTW29tsuAAA7DkIAM2F+i4GFfBrtlBnQWEDoHsD
-wG8Q3kYNgXxJ8v6Of5H61iyg2tDNNKmZggIXHzcd3Z0V6Cy8zr0BTrd5H3S0iMen
-VX+BIVRzZ/P/GwWGi154uKn4Jjq1O5pjymUI8EYFCMa4nTdMU1LDjYDf//TOTwOx
-v0VmD/EoOfeQWosXthf5eoBDSvjByYwEL9h7a2aZKex90t/b5FVuhWp3V82kQpm1
-a1Um7sRrYbcRdchWVDG8z21q5/OihNoje+Gkyh3qjpN4+7qlxIY+J1BiHOxqI8lY
-C+lSpU/4YYStenChSVILSNujFz/UEhcntFXxaRUuWQrkE4bl0tzCJ71LVEp3txo=
-=Gp/k
+wsBcBAEBCgAQBQJgOPffCRD1bFTW29tsuAAA5OgIAGXKekmqwXnDCs3/7wHg8/7C
+yEBN77/PkzWyB/6LWneFxJl1QVysJRq8w/JOTOx5jwE89VuuPfglJIV0ARKRprj6
+iGjR+KSqy4E5JV/FPm2PrC2DfAXaRpi8lY/OtR05hnE+ffnMgnmb0MhP/FRL/W8X
+wGek+UvjEGbQofrHDzogj1Q/4EPr5Cmy/OXySQZ0Fco6eKm8fpyWbfJWpVNYgovc
+q6LcGOcBDGUNDstDnKLC9LccgstqwVFvEYrKsPj2+SNDYFEbb4KnyCU9dIxt4nvb
+mh+UT/Y06kgbsqeba91BkxvDh7J7EBHYYOr0fR1YjvycaWc1oa4422GcrFRCJaU=
+=haq7
 -----END PGP SIGNATURE-----
