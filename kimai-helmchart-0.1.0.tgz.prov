@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 0.1.0
+description: A Helm chart for Kubernetes
+name: kimai-helmchart
+type: application
+version: 0.1.0
+
+...
+files:
+  kimai-helmchart-0.1.0.tgz: sha256:9fe65176153db66d227308a2b661bf1f090dc734da59117ee84ac4cdaf405362
+-----BEGIN PGP SIGNATURE-----
+
+wsBcBAEBCgAQBQJgOMyOCRD1bFTW29tsuAAAUrUIAI1vNL97C/RQCQk+H0Qr7Yex
+uJhOxboUVhfyxGzyAWQcae3Xw5ut3gXSClaWqffMXCFO/+M3lvnOJPKAsLjFLjeU
+CqNxSZIe2W9AUXd3L/izf9qaLrACjygmoUM4Ca5MkCUop7Pu4Xx0W2YPGnQ8P2y+
+qX14B1rmYiK+Iup2j9segKlmc3XvVn7JxKlCXPg52bXiSQb4KY6MraAAja3BAsx7
+BFXwWis0Y416qtnrezdUL7NP25Kj1YqmKm8t0cHWMzJG7l3q2n3a54LGP33QVeEo
+TqEF4r7S4c3j5/DVica3j47nvaUXKPQhQ4xRSBWFoLVVCHZYKm6kH9ewwho5JqQ=
+=wdI4
+-----END PGP SIGNATURE-----
