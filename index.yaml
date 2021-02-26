@@ -3,12 +3,19 @@ entries:
   kimai-helmchart:
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-02-26T13:09:55.169897529+01:00"
-    description: A Helm chart for Kubernetes
-    digest: 413196fcbb870a5746b4809fde30ad3919a77b8c4a5dee15b5ffee73f11b71b6
+    created: "2021-02-26T14:05:49.462614567+01:00"
+    description: A Kimai2 Helm chart for Kubernetes
+    digest: be2447b7fc2a93e8fe1fafffbd5753f7df3f5f70b962bb4b8dc7e8e1c9140987
+    home: https://github.com/kevinpapst/kimai2
+    icon: https://raw.githubusercontent.com/kimai/images/master/repository-header.png
+    maintainers:
+    - email: gresci@tiscali.it
+      name: Giorgio Resci
     name: kimai-helmchart
+    sources:
+    - https://github.com/gresci/kimai2-helmchart/tree/gh-pages
     type: application
     urls:
-    - https://gresci.github.io/kimai2-helmchart/kimai-helmchart/kimai-helmchart-0.1.0.tgz
+    - kimai-helmchart/kimai-helmchart-0.1.0.tgz
     version: 0.1.0
-generated: "2021-02-26T13:09:55.168359248+01:00"
+generated: "2021-02-26T14:05:49.461329415+01:00"
